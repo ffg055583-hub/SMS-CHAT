@@ -1,0 +1,6 @@
+{
+  "name": "SMS Chat",
+  "description": "Modern Android messaging, status stories, groups, and real-time voice and video calling application by SMS CHAT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

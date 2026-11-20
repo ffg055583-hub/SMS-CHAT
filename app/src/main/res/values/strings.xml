@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SMS Chat</string>
+    <string name="brand_name">SMS CHAT</string>
+    <string name="developer_credit">Developed by SMS CHAT</string>
+    <string name="nav_chats">Chats</string>
+    <string name="nav_status">Status</string>
+    <string name="nav_calls">Calls</string>
+    <string name="nav_settings">Settings</string>
+</resources>
